@@ -37,13 +37,13 @@
 
 4. **Run Silo**:
    ```bash
-   python silo.py /path/to/pdf
+   python main.py /path/to/pdf
    ```
    > you can add a file's path by just dragging it into the terminal
    
    *test run*: Since, `Corpus.pdf` comes with the repository
    ```bash
-   python silo.py Corpus.pdf
+   python main.py Corpus.pdf
    ```
 
 #### Notes
