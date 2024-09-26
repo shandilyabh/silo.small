@@ -48,7 +48,6 @@
 
 #### Notes
 - on the first run, Sentence Transformers will fetch Supabase's `gte-small` model for generating word embeddings.
-- the first response from silo might have very high latency (~20s), but ones after will generated around 1-2 seconds.
 
 ### Architectural Decisions:
 **silo uses**:
